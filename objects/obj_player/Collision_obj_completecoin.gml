@@ -1,0 +1,1 @@
+coincollected = 1
